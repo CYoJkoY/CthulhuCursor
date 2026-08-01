@@ -203,62 +203,37 @@ This project is open-sourced under the MIT license. You are free to use, modify,
 
 - [x] Full coverage of 17 standard Windows pointers
 - [x] Animated Busy & Working in Background pointers
-- [ ] Dark & Light dual variants
-- [ ] High-DPI versions (2x, 3x)
-- [ ] Companion sound pack
-- [ ] Other Great Old One variants (Nyarlathotep, Yog-Sothoth)
-- [ ] Matching desktop wallpapers
 
 ---
 
-## 👥 Community
+## 🤝 Contributing & Feedback
 
-Join our community to share your experience and custom cursors:
-
-![Community QR](https://mypicture-1258720957.cos.ap-nanjing.myqcloud.com/Obsidian/image-20260122235736120.png)
-
----
-
-## 📧 Contact
-
-- **WeChat**: laohaibao2025
-- **Email**: 75271002@qq.com
-
-![WeChat QR](https://mypicture-1258720957.cos.ap-nanjing.myqcloud.com/Screenshot_20260123_095617_com.tencent.mm.jpg)
+Issues and Pull Requests are welcome.  
+Please ensure your code conforms to AHK v2 syntax and follows the existing modular style.
 
 ---
 
-## ☕ Support
+## 📄 License
 
-If this cursor set has made your desktop suitably unspeakable, consider buying me a coffee ☕
-
-**WeChat Pay**
-
-![WeChat Pay](https://mypicture-1258720957.cos.ap-nanjing.myqcloud.com/Obsidian/image-20250914152855543.png)
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📜 License
+## 💰 Support the Author
 
-```
-MIT License
+If this project has boosted your productivity, consider buying me a coffee! ☕
 
-Copyright (c) 2026
+<div align="center">
+  <a href="https://cyojkoy.github.io/Payment/">
+    <img src="https://img.shields.io/badge/👉_Click_Here_to_Support_Me-9E8F7E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=BEB8AE" alt="Support Me Button">
+  </a>
+</div>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-```
+<div align="center">
+  <br>
+  <i style="color: #8A9E8B;">Made with ❤️ and AutoHotkey v2</i>
+</div>
 
 ---
 
