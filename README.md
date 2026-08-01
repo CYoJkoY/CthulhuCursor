@@ -215,7 +215,7 @@ Please ensure your code conforms to AHK v2 syntax and follows the existing modul
 
 ## 📄 License
 
-This project is licensed under the Creative Commons Attribution 4.0 **CC BY 4.0**.  
+This project is licensed under the Creative Commons Attribution 4.0 **(CC BY 4.0)**.  
 See the [LICENSE](LICENSE) file for details.
 
 ---
