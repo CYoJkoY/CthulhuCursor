@@ -182,7 +182,7 @@ This cursor set is in Windows-specific formats (`.cur` / `.ani`). macOS and Linu
 <details>
 <summary><strong>Q: Is commercial use allowed?</strong></summary>
 
-This project is open-sourced under the MIT license. You are free to use, modify, and redistribute it commercially. See [License](#-license).
+This project is open-sourced under the MIT license. You are free to use, modify, and redistribute it commercially. See [License](LICENSE).
 </details>
 
 ---
