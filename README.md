@@ -234,18 +234,3 @@ If this project has boosted your productivity, consider buying me a coffee! ☕
   <br>
   <i style="color: #8A9E8B;">Made with ❤️ and AutoHotkey v2</i>
 </div>
-
----
-
-## ⭐ Star History
-
-If you like this project, give it a Star ⭐ and summon the Great Old Ones!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/cthulhu-cursor&type=Date)](https://star-history.com/#your-username/cthulhu-cursor&Date)
-
----
-
-<p align="center">
-  <i>"That is not dead which can eternal lie,<br>
-  And with strange aeons even death may die."</i>
-</p>
