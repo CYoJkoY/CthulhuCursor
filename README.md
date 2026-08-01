@@ -6,7 +6,7 @@
 
 A complete Cthulhu Mythos themed Windows mouse cursor scheme, covering all **17** standard Windows pointer styles. Let the gaze of the Great Old Ones follow your every click.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue.svg)
 ![Version](https://img.shields.io/badge/version-v1.0.0-green.svg)
 ![Pointers](https://img.shields.io/badge/pointers-17%2F17-brightgreen.svg)
