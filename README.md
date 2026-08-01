@@ -30,23 +30,23 @@ Cthulhu Cursor is a Windows cursor theme pack inspired by the cosmic horror work
 
 | Pointer State | File Name | Type | Description |
 |--------------|-----------|------|-------------|
-| Normal Select | `cthulhu_normal.cur` | Static | Default pointer — the gaze of an eldritch eye |
-| Help Select | `cthulhu_help.cur` | Static | A questioning tentacle |
-| Working in Background | `cthulhu_bg.ani` | 🎬 Animated | A slowly writhing tendril |
-| Busy | `cthulhu_busy.ani` | 🎬 Animated | A rotating ancient rune circle |
-| Precision Select | `cthulhu_precision.cur` | Static | Crosshair fused with a watching eye |
-| Text Select | `cthulhu_text.cur` | Static | Slender tentacle tip |
-| Handwriting | `cthulhu_hand.cur` | Static | Claw mark stroke |
-| Unavailable | `cthulhu_unavail.cur` | Static | Broken eldritch seal |
-| Vertical Resize | `cthulhu_vert.cur` | Static | Tentacle stretching up and down |
-| Horizontal Resize | `cthulhu_horiz.cur` | Static | Tentacle stretching left and right |
-| Diagonal Resize 1 | `cthulhu_diag1.cur` | Static | Diagonal tentacle |
-| Diagonal Resize 2 | `cthulhu_diag2.cur` | Static | Reverse diagonal tentacle |
-| Move | `cthulhu_move.cur` | Static | Dark energy radiating in four directions |
-| Alternate Select | `cthulhu_alt.cur` | Static | Cultist hood silhouette |
-| Link Select | `cthulhu_link.cur` | Static | Tentacle pointing toward the stars |
-| Location Select | `cthulhu_loc.cur` | Static | Elder sign locator |
-| Person Select | `cthulhu_person.cur` | Static | Deep One silhouette |
+| Normal Select | `Normal.cur` | Static | Default pointer — the gaze of an eldritch eye |
+| Help Select | `Help.cur` | Static | A questioning tentacle |
+| Working in Background | `Working.ani` | 🎬 Animated | A slowly writhing tendril |
+| Busy | `Busy.ani` | 🎬 Animated | A rotating ancient rune circle |
+| Precision Select | `Precision.cur` | Static | Crosshair fused with a watching eye |
+| Text Select | `Text.cur` | Static | Slender tentacle tip |
+| Handwriting | `Handwriting.cur` | Static | Claw mark stroke |
+| Unavailable | `Unavailable.cur` | Static | Broken eldritch seal |
+| Vertical Resize | `Vertical.cur` | Static | Tentacle stretching up and down |
+| Horizontal Resize | `Horizontal.cur` | Static | Tentacle stretching left and right |
+| Diagonal Resize 1 | `Diagonal1.cur` | Static | Diagonal tentacle |
+| Diagonal Resize 2 | `Diagonal2.cur` | Static | Reverse diagonal tentacle |
+| Move | `Move.cur` | Static | Dark energy radiating in four directions |
+| Alternate Select | `Alternate.cur` | Static | Cultist hood silhouette |
+| Link Select | `Link.cur` | Static | Tentacle pointing toward the stars |
+| Location Select | `Pin.cur` | Static | Elder sign locator |
+| Person Select | `Person.cur` | Static | Deep One silhouette |
 
 ---
 
